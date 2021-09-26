@@ -1,0 +1,5 @@
+# 本地开发环境 
+127.0.0.1 base-nacos 
+127.0.0.1 base-gateway 
+127.0.0.1 base-redis 
+127.0.0.1 base-mysql
